@@ -1,4 +1,4 @@
-# NeetCode150
-My NeetCode 150 Progress!
+# LeetCode and NeetCode150
+Problem solving! 
 
 Chat we are cooking (´｡• ᵕ •｡`) ♡
