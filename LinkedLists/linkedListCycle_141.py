@@ -16,3 +16,15 @@ class Solution:
             head = head.next
         
         return False
+
+
+        # Floyd's Cycle Detection
+        s, f = head, head
+        while f and f.next:
+            s = s.next
+            f = f.next.next
+            
+            if s == f:
+                return True
+    
+        return False
