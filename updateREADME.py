@@ -1,6 +1,6 @@
 """
 Script to update README.md with a table of folder structure
-Format: Folder Name | Number | File Name
+Format: Data Structure | Problem Number | Problem Name
 """
 
 
