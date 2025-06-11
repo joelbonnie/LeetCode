@@ -68,7 +68,7 @@ def update_readme(table_content):
     start_idx = content.find(start_marker)
     end_idx = content.find(end_marker)
     
-    new_section = f"{start_marker}\n\n## Questions Solved! :D\n\n{table_content}\n{end_marker}"
+    new_section = f"{start_marker}\n\n## Questions Solved! :D\n\nCurrent Question Count: {len(folder_data)}\n{table_content}\n{end_marker}"
     
     if start_idx != -1 and end_idx != -1:
         updated_content = (content[:start_idx] + 
