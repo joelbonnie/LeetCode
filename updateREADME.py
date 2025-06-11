@@ -3,6 +3,7 @@ Script to update README.md with a table of folder structure
 Format: Folder Name | Number | File Name
 """
 
+
 import os
 import re
 from pathlib import Path
