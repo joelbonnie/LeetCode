@@ -53,7 +53,7 @@ def generate_table(folder_data):
     return table
 
 
-def update_readme(table_content):
+def update_readme(table_content, folder_count):
     readme_path = Path('README.md')
     
     start_marker = "<!-- AUTO-GENERATED TABLE START -->"
@@ -68,7 +68,7 @@ def update_readme(table_content):
     start_idx = content.find(start_marker)
     end_idx = content.find(end_marker)
     
-    new_section = f"{start_marker}\n\n## Questions Solved! :D\n\nCurrent Question Count: {len(folder_data)}\n{table_content}\n{end_marker}"
+    new_section = f"{start_marker}\n\n## Questions Solved! :D\n\nCurrent Question Count: {folder_count}\n{table_content}\n{end_marker}"
     
     if start_idx != -1 and end_idx != -1:
         updated_content = (content[:start_idx] + 
@@ -82,14 +82,14 @@ def update_readme(table_content):
     with open(readme_path, 'w', encoding='utf-8') as f:
         f.write(updated_content)
     
-    print(f"README.md updated with {len(folder_data)} files")
+    print(f"README.md updated with {folder_count} files")
 
 
 def main():
     try:
         folder_data = scan_folders()
         table_content = generate_table(folder_data)
-        update_readme(table_content)
+        update_readme(table_content, len(folder_data))
         
         print("Table generation completed successfully!")
         
