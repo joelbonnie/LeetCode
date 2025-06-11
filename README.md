@@ -7,6 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
+Current Question Count: 44
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
