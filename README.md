@@ -5,7 +5,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 <!-- AUTO-GENERATED TABLE START -->
 
-## File Structure
+## Questions Solved! :D
 
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
