@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 45
+Current Question Count: 47
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -27,6 +27,8 @@ Current Question Count: 45
 | BinarySearch | 74 | searchA2DMatrix |
 | BinarySearch | 33 | searchInRotatedSortedArray |
 | DP | 70 | climbingStairs |
+| Heaps | 1046 | lastStoneWeight |
+| LinkedLists | 2 | addTwoNumbers |
 | LinkedLists | 141 | linkedListCycle |
 | LinkedLists | 21 | mergeTwoSortedLinkedLists |
 | LinkedLists | 876 | middleOfTheLinkedList |
