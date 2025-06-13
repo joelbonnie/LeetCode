@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 48
+Current Question Count: 50
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -27,7 +27,9 @@ Current Question Count: 48
 | BinarySearch | 74 | searchA2DMatrix |
 | BinarySearch | 33 | searchInRotatedSortedArray |
 | DP | 70 | climbingStairs |
+| Heaps | 973 | kClosestPointsToOrigin |
 | Heaps | 703 | kthLargestElementInAStream |
+| Heaps | 215 | kthLargestElementInAnArray |
 | Heaps | 1046 | lastStoneWeight |
 | LinkedLists | 2 | addTwoNumbers |
 | LinkedLists | 141 | linkedListCycle |
