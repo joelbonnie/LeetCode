@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 54
+Current Question Count: 56
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -54,12 +54,14 @@ Current Question Count: 54
 | Trees | 110 | balancedBinaryTrees |
 | Trees | 102 | binaryTreeLevelOrderTraversal |
 | Trees | 199 | binaryTreeRightSideView |
+| Trees | 1448 | countGoodNodesInABinaryTree |
 | Trees | 543 | diameterOfBinaryTree |
 | Trees | 226 | invertBinaryTree |
 | Trees | 235 | lowestCommonAncestorOfABinarySearchTree |
 | Trees | 104 | maximumDepthOfBinaryTree |
 | Trees | 100 | sameTree |
 | Trees | 572 | subtreeOfAnotherTree |
+| Trees | 98 | validateBinarySearchTree |
 | TwoPointer | 11 | containerWithTheMostWater |
 | TwoPointer | 15 | threeSum |
 | TwoPointer | 167 | twoSumII |
