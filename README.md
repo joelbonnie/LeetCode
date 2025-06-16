@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 52
+Current Question Count: 54
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -27,6 +27,8 @@ Current Question Count: 52
 | BinarySearch | 74 | searchA2DMatrix |
 | BinarySearch | 33 | searchInRotatedSortedArray |
 | DP | 70 | climbingStairs |
+| DP | 213 | houseRobberII |
+| DP | 198 | houseRobber |
 | DP | 746 | minCostClimbingStairs |
 | Heaps | 973 | kClosestPointsToOrigin |
 | Heaps | 703 | kthLargestElementInAStream |
