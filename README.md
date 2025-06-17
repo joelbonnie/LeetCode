@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 56
+Current Question Count: 57
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -45,6 +45,7 @@ Current Question Count: 56
 | Math | 67 | addBinary |
 | Math | 66 | plusOne |
 | SlidingWindow | 121 | bestTimeToBuyAndSellStock |
+| SlidingWindow | 424 | longestRepeatingCharacterReplacement |
 | SlidingWindow | 3 | longestSubstringWithoutRepeatingCharacters |
 | SlidingWindow | 567 | permutationInString |
 | Stack | 150 | evaluateReversePolishNotation |
