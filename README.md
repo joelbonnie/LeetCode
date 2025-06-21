@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 62
+Current Question Count: 63
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -63,6 +63,7 @@ Current Question Count: 62
 | Trees | 1448 | countGoodNodesInABinaryTree |
 | Trees | 543 | diameterOfBinaryTree |
 | Trees | 226 | invertBinaryTree |
+| Trees | 230 | kthSmallestElementInABST |
 | Trees | 235 | lowestCommonAncestorOfABinarySearchTree |
 | Trees | 104 | maximumDepthOfBinaryTree |
 | Trees | 100 | sameTree |
