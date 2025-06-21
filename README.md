@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 63
+Current Question Count: 64
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -33,6 +33,7 @@ Current Question Count: 63
 | DP | 746 | minCostClimbingStairs |
 | Graphs | 542 | 01Matrix |
 | Graphs | 200 | numberOfIslands |
+| Greedy | 55 | jumpGame |
 | Greedy | 53 | maximumSubarray |
 | Heaps | 973 | kClosestPointsToOrigin |
 | Heaps | 703 | kthLargestElementInAStream |
