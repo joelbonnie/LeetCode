@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 65
+Current Question Count: 66
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -40,6 +40,7 @@ Current Question Count: 65
 | Heaps | 703 | kthLargestElementInAStream |
 | Heaps | 215 | kthLargestElementInAnArray |
 | Heaps | 1046 | lastStoneWeight |
+| Intervals | 57 | insertInterval |
 | Intervals | 56 | mergeIntervals |
 | LinkedLists | 2 | addTwoNumbers |
 | LinkedLists | 287 | findTheDuplicateNumber |
