@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 66
+Current Question Count: 67
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -34,6 +34,7 @@ Current Question Count: 66
 | Graphs | 542 | 01Matrix |
 | Graphs | 1765 | mapOfHighestPeak |
 | Graphs | 200 | numberOfIslands |
+| Graphs | 994 | rottingOranges |
 | Greedy | 55 | jumpGame |
 | Greedy | 53 | maximumSubarray |
 | Heaps | 973 | kClosestPointsToOrigin |
