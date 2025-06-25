@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 67
+Current Question Count: 68
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -15,6 +15,7 @@ Current Question Count: 67
 | ArraysAndHashing | 128 | longestConsequtiveSequence |
 | ArraysAndHashing | 409 | longestPalidrome |
 | ArraysAndHashing | 169 | majorityElement |
+| ArraysAndHashing | 238 | productOfArrayExceptSelf |
 | ArraysAndHashing | 383 | ransomNote |
 | ArraysAndHashing | 347 | topKFrequentElements |
 | ArraysAndHashing | 1 | twoSum |
