@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 69
+Current Question Count: 70
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -33,6 +33,7 @@ Current Question Count: 69
 | DP | 198 | houseRobber |
 | DP | 746 | minCostClimbingStairs |
 | Graphs | 542 | 01Matrix |
+| Graphs | 207 | courseSchedule |
 | Graphs | 1765 | mapOfHighestPeak |
 | Graphs | 200 | numberOfIslands |
 | Graphs | 994 | rottingOranges |
