@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 73
+Current Question Count: 74
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -20,6 +20,7 @@ Current Question Count: 73
 | ArraysAndHashing | 238 | productOfArrayExceptSelf |
 | ArraysAndHashing | 383 | ransomNote |
 | ArraysAndHashing | 345 | reverseVowelsOfAString |
+| ArraysAndHashing | 151 | reverseWordsInAString |
 | ArraysAndHashing | 347 | topKFrequentElements |
 | ArraysAndHashing | 1 | twoSum |
 | ArraysAndHashing | 242 | validAnagram |
