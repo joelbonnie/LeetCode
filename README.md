@@ -7,17 +7,19 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 71
+Current Question Count: 73
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
 | ArraysAndHashing | 49 | groupAnagram |
+| ArraysAndHashing | 1431 | kidsWithTheGreatestNumberOfCandies |
 | ArraysAndHashing | 128 | longestConsequtiveSequence |
 | ArraysAndHashing | 409 | longestPalidrome |
 | ArraysAndHashing | 169 | majorityElement |
 | ArraysAndHashing | 1768 | mergeStringsAlternatively |
 | ArraysAndHashing | 238 | productOfArrayExceptSelf |
 | ArraysAndHashing | 383 | ransomNote |
+| ArraysAndHashing | 345 | reverseVowelsOfAString |
 | ArraysAndHashing | 347 | topKFrequentElements |
 | ArraysAndHashing | 1 | twoSum |
 | ArraysAndHashing | 242 | validAnagram |
