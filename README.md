@@ -7,7 +7,7 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 74
+Current Question Count: 75
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
@@ -81,6 +81,7 @@ Current Question Count: 74
 | Trees | 572 | subtreeOfAnotherTree |
 | Trees | 98 | validateBinarySearchTree |
 | TwoPointer | 11 | containerWithTheMostWater |
+| TwoPointer | 392 | isSubsequence |
 | TwoPointer | 15 | threeSum |
 | TwoPointer | 167 | twoSumII |
 | TwoPointer | 125 | validPalindrome |
