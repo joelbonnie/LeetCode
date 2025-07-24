@@ -7,10 +7,11 @@ Chat we are cooking (´｡• ᵕ •｡`) ♡
 
 ## Questions Solved! :D
 
-Current Question Count: 75
+Current Question Count: 77
 |Data Structure | Problem Number | Problem Name |
 |-------------|--------|----------|
 | ArraysAndHashing | 217 | containsDuplicate |
+| ArraysAndHashing | 1071 | greatestCommonDivisorOfStrings |
 | ArraysAndHashing | 49 | groupAnagram |
 | ArraysAndHashing | 1431 | kidsWithTheGreatestNumberOfCandies |
 | ArraysAndHashing | 128 | longestConsequtiveSequence |
@@ -82,6 +83,7 @@ Current Question Count: 75
 | Trees | 98 | validateBinarySearchTree |
 | TwoPointer | 11 | containerWithTheMostWater |
 | TwoPointer | 392 | isSubsequence |
+| TwoPointer | 283 | moveZeroes |
 | TwoPointer | 15 | threeSum |
 | TwoPointer | 167 | twoSumII |
 | TwoPointer | 125 | validPalindrome |
